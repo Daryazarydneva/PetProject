@@ -1,0 +1,5 @@
+﻿  Recommender.cpp
+  VirtualPet.cpp
+C:\VirtualPet\VirtualPet\VirtualPet\VirtualPet.cpp(188,26): warning C4566: символ, представленный универсальным именем символа "\u2713", невозможно представить в текущей кодовой странице (1251)
+  Создание кода...
+  VirtualPet.vcxproj -> C:\VirtualPet\VirtualPet\x64\Debug\VirtualPet.exe
