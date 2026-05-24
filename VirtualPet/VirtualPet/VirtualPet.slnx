@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="VirtualPet/VirtualPet.vcxproj" Id="95072098-437d-4068-9c3f-89fd510f237f" />
-</Solution>
